@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arquetipo-java-avancado.iml" filepath="$PROJECT_DIR$/arquetipo-java-avancado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquetipo-java-avancado-ear/arquetipo-java-avancado-ear.iml" filepath="$PROJECT_DIR$/arquetipo-java-avancado-ear/arquetipo-java-avancado-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquetipo-java-avancado-ejb/arquetipo-java-avancado-ejb.iml" filepath="$PROJECT_DIR$/arquetipo-java-avancado-ejb/arquetipo-java-avancado-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arquetipo-java-avancado-web/arquetipo-java-avancado-web.iml" filepath="$PROJECT_DIR$/arquetipo-java-avancado-web/arquetipo-java-avancado-web.iml" />
+    </modules>
+  </component>
+</project>

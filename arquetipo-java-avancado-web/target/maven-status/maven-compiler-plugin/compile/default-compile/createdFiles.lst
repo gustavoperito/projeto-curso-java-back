@@ -1,0 +1,7 @@
+com\perito\arquetipo\java\avancado\api\AbstractCrudResource.class
+com\perito\arquetipo\java\avancado\api\JaxRsActivator.class
+com\perito\arquetipo\java\avancado\api\VendaResource.class
+com\perito\arquetipo\java\avancado\util\EntityNotFoundMapper.class
+com\perito\arquetipo\java\avancado\util\ConstraintViolationMapper.class
+com\perito\arquetipo\java\avancado\util\ObjectMapperContextResolver.class
+com\perito\arquetipo\java\avancado\api\VeiculoResource.class

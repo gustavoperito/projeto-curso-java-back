@@ -1,0 +1,9 @@
+com\perito\arquetipo\java\avancado\service\VendaService.class
+com\perito\arquetipo\java\avancado\model\Veiculo.class
+com\perito\arquetipo\java\avancado\service\TestDoSuriService.class
+com\perito\arquetipo\java\avancado\util\Resources.class
+com\perito\arquetipo\java\avancado\model\Venda.class
+com\perito\arquetipo\java\avancado\service\AbstractCrudService.class
+com\perito\arquetipo\java\avancado\util\Repository.class
+com\perito\arquetipo\java\avancado\model\MyEntity.class
+com\perito\arquetipo\java\avancado\service\VeiculoService.class
